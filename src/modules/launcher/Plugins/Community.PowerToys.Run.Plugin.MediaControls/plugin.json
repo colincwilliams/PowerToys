@@ -1,0 +1,13 @@
+﻿{
+  "ID": "22679f79afa84e3aa06b0df5f5abc35e",
+  "ActionKeyword": "",
+  "IsGlobal": true,
+  "Name": "Media Controls",
+  "Author": "Colin Williams",
+  "Version": "0.0.1",
+  "Language": "csharp",
+  "Website": "https://github.com/colincwilliams",
+  "IcoPathDark": "Images\\mediacontrols.dark.png",
+  "IcoPathLight": "Images\\mediacontrols.light.png",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.MediaControls.dll"
+}
